@@ -8,7 +8,7 @@ Liquid Slider - Home Text Slider
 
 $('#slider-home').liquidSlider({
 	  autoSlide:          true,
-	  autoSlideInterval:  4500,
+	  autoSlideInterval:  5500,
 	  autoSlideControls:  true,
 	  forceAutoSlide: true,
 	  dynamicArrows: false,
